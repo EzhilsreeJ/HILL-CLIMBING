@@ -107,6 +107,7 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 ```
+
 ## RESULT:
 <hr>
 The Simple Hill Climbing algorithm successfully generated the target string "Artificial Intelligence" by iteratively mutating and improving the solution based on heuristic evaluation.
